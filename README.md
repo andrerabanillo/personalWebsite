@@ -1,2 +1,2 @@
 # personalWebsite
-Made With Svelte and Astro (In the works)
+Made With Svelte and Tailwind CSS (In the works)
