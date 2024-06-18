@@ -19,6 +19,6 @@ npm run dev -- --open
 ## Building
 
 ```bash
-To create a production version:
+#To create a production version:
 npm run build
 ```
