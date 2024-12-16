@@ -86,7 +86,7 @@
                 {#if step.name === "Sportsbook Betting Line Analyzer"}
                 Utilizes <span class="poppins text-violet-400"> the Odds API </span>to access the betting lines for each major sportsbook worldwide, giving users the ability to compare lines and secure profit. 
                 Proves further well with the arbitrage betting strategy. 
-                    <p class="text-base text-right">
+                    <p class="justify-end">
                         <a href="https://github.com/sebastiankula/historicalSportsbookAnalyzer" target="_blank" rel="">
                             Go to &rarr; 
                         </a>
@@ -94,7 +94,7 @@
                 {/if}
                 {#if step.name === "Discord Music Bot"}
                 Utilizes the <span class="poppins text-violet-400"> youtube.dll, FFmpeg and asyncio</span> frameworks to create discord bot that enables Discord participants in a voice chat to play audio from a YouTube video.
-                    <p class="text-base text-right">
+                    <p class="justify-end">
                         <a href="https://github.com/andrerabanillo/discordMusicBot" target="_blank" rel="">
                             Go to &rarr; 
                         </a>
@@ -103,7 +103,7 @@
                 {/if}
                 {#if step.name === "Joke Generator"}
                 Utilizes the <span class="poppins text-violet-400"> api-ninjas </span> API to generate a joke and display them on an HTML webpage. This project showcases my ability to integrate APIs and develop dynamic web content.
-                    <p class="text-base text-right align-text-bottom">
+                    <p class="justify-end">
                         <a href="https://github.com/andrerabanillo/apiJokeGenerator" target="_blank" rel="">
                             Go to &rarr; 
                         </a>
@@ -113,7 +113,7 @@
                 Utilizes
                 <span class="poppins text-violet-400"> BeautifulSoup </span>
                 to scrape data from baseball-reference.com. The program will parse the data, allowing the user to search up for various stats of previous, and current baseball players.
-                <p class="text-base text-right align-text-bottom">
+                <p class="justify-end">
                     <a href="https://github.com/andrerabanillo/baseballReferenceWebScraper" target="_blank" rel="">
                         Go to &rarr; 
                     </a>

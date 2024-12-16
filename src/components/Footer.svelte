@@ -7,12 +7,21 @@
     <div class="flex flex-col gap-4 items-center justify-center">
        
         <p><b class="pr-2">Email</b> andresimonr@gmail.com</p>
-        
-
-
 
         <p>
             <b class="pr-2">GitHub</b>
+            <a href=" https://github.com/andrerabanillo" target="_blank" class="text-violet-400"
+                >andrerabanillo<sup class=""
+                    ><span class="text-xs scale-75 pl-0.5"
+                        ><i
+                            class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
+                        /></span
+                    ></sup
+                ></a
+            >
+        </p>
+        <p>
+            <b class="pr-2">LinkedIn</b>
             <a href=" https://github.com/andrerabanillo" target="_blank" class="text-violet-400"
                 >andrerabanillo<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
