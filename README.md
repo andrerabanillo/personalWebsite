@@ -1,6 +1,6 @@
 # My Personal Portfolio Website!
 
-This is the source for my portfolio website. You can check it out at [[https://andre-rabanillo.net/](https://andre-rabanillo.net/)](https://andrerabanillo.vercel.app/)
+This is the source for my portfolio website. You can check it out at (https://andrerabanillo.vercel.app/)
 
 Showcases some facts about me, previous personal projects and links to my Github and LinkedIn. <br>
 The website utilizes the Svelte and Tailwind CSS frameworks. 
